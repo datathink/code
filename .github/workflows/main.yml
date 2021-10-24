@@ -23,7 +23,6 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          keep_files: false
           user_name: hathawayj
           user_email: hathawayj@gmail.com
         #   cname: example.com
