@@ -1,4 +1,5 @@
-baseURL = ""
+baseURL = "https://datathink.github.io/ds"
+themesDir = "themes"
 languageCode = "en-us"
 title = "Data Science Programming & Visualization"
 theme = "hugo-winston-theme"
