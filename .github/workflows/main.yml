@@ -21,7 +21,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./public
           keep_files: false
           user_name: hathawayj
           user_email: hathawayj@gmail.com
